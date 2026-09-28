@@ -7,7 +7,8 @@ class Lab
         //string input = "34538cbgb76hfuy7ffhr21422534352762";
         Console.Write("inter string: ");
         string input = Console.ReadLine();
-        long total = 0; ;
+        long total = 0; 
+
         //Console.WriteLine("input="+input);
 
 
